@@ -1,6 +1,6 @@
 # git-dot
 
-An AI-powered Git commit assistant that automatically generates meaningful commit messages based on your staged changes.
+An AI-powered Git commit assistant that automatically generates meaningful commit messages based on your staged changes. This commit assistant uses the commit conventions from Conventional Commits: https://www.conventionalcommits.org/en/v1.0.0/
 
 ## Features
 
