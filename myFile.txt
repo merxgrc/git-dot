@@ -1,2 +1,1 @@
-random text for testing purposes test test test
-valeria hello rattie test
+This is a test file that I am adding to test the open ai api
